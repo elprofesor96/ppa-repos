@@ -1,7 +1,7 @@
 #!/bin/bash
 
-dpkg-scanpackages -m . /dev/null > Packages
-
+dpkg-scanpackages --multiversion . > Packages
+gzip -k -f Packages
 
 echo "Origin: ppa.elprofesor.io" > Release
 echo "Label: ppa.elprofesor.io" >> Release
@@ -15,5 +15,5 @@ echo "Components: main" >> Release
 echo "Description: ppa.elprofesor.io" >> Release
 
 rm -rf Release.gpg; gpg  -abs -o - Release > Release.gpg
-rm -rf inRelease; gpg --clearsign -o InRelease Release
+rm -rf inRelease; gpg --clearsign -o - Release > InRelease
 

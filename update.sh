@@ -2,10 +2,13 @@
 
 dpkg-scanpackages -m . /dev/null > Packages
 
+
 echo "Origin: ppa.elprofesor.io" > Release
 echo "Label: ppa.elprofesor.io" >> Release
 echo "Suite: stable" >> Release
 echo "Version: 1337" >> Release
+echo "SHA256: $(sha256sum Release | awk '{print $1}')" >> Release
+echo "Date: $(date -R)" >> Release
 echo "Codename: elprofesor" >> Release
 echo "Architectures: all" >> Release
 echo "Components: main" >> Release

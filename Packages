@@ -1,0 +1,11 @@
+Package: elprofesor
+Version: 1337
+Architecture: all
+Maintainer: elprofesor.io
+Filename: ./test.deb
+Size: 664
+MD5sum: c45bf0d61d4fb9b7458f41410c5dd236
+SHA1: 7aedcec106410d3d8ef625019e555a876433cda6
+SHA256: f7e4f1b5c97275d6e94d6ff2f2825f9024072a3304c6d47477905f12c5b4e35e
+Description: elprofesor 1337 test package
+

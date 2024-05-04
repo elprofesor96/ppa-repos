@@ -1,0 +1,8 @@
+Origin: ppa.elprofesor.io
+Label: ppa.elprofesor.io
+Suite: stable
+Version: 1337
+Codename: elprofesor
+Architectures: all
+Components: main
+Description: ppa.elprofesor.io

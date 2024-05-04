@@ -15,5 +15,5 @@ echo "Components: main" >> Release
 echo "Description: ppa.elprofesor.io" >> Release
 
 rm -rf Release.gpg; gpg  -abs -o - Release > Release.gpg
-
+rm -rf inRelease; gpg --clearsign -o InRelease Release
 

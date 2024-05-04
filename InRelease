@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: ppa.elprofesor.io
+Label: ppa.elprofesor.io
+Suite: stable
+Version: 1337
+SHA256: 2e74354d71da9d49f216a4b6562ea61c79973714aa8f1c9c792d964f02d8595d
+Date: Sun, 05 May 2024 00:53:18 +0300
+Codename: elprofesor
+Architectures: all
+Components: main
+Description: ppa.elprofesor.io
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEkL96KeZ5MuEH0WAYFGgyiZ5dR8QFAmY2rk4ACgkQFGgyiZ5d
+R8TdyQ//bpQ6zfApNEiR/vQu2CAfV6IuGwq7RQy8bRCtvHSLogikyGE1mmHNKhnd
+Z3JeZq/reC1mFXhmcIhi8WTh1lOJQeVU6jkA3JLxl3zTbgbgUO8qhRCy7zzKg3JG
+COOGCl/9QDB648758V0I5K5kWqIlTiBnBtpdXTEciLQrWBNh6R35NFKkD54m1I1F
+tNGBtYX5MS4Z881WB/7xGMYeGWfNF6lYf264YN3oVfN3HKlUE2yGCydhFh69O0xA
+zzubk3Qzui7idVJCeUT0NXqYRbjn02+LkjRtZj+nWmRs1KMGE80rXozMqkAndcmJ
+esGQk9QyYmMpCWixI+Japq9y6OUr43pFTPQ+ez6sACmnBvWKRCqr6J/vDoArsEdO
+TBVj9dkZJarS3/NzV8j4uCHFN7syiMaqo0APS9qiYn7fqQ7Vz7/E7sango/flBWs
+OyqaQNK1PWKWZR/z1MzwWd+qYLVS7t1bHa0xh5BdfHikyycobKp4HjbmYYfxKm5l
+DQnD88LTg6RIspKNWhtjgn2vbf5q7YPzV0P09vvx6kPvx6letIJQW6MfoDz7VQKf
+Lsncog98OaJEGB6dIL+hLJWY99yIqBZdit4/SNSOAfK+sdsnq6F10obP4eBJW0js
+R1tm1GeUFXFC3tmTFHH7KjjlkzPGtBF4GG+GGR2qWf5qsZy5yDY=
+=s2DE
+-----END PGP SIGNATURE-----

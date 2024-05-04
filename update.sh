@@ -14,6 +14,6 @@ echo "Architectures: all" >> Release
 echo "Components: main" >> Release
 echo "Description: ppa.elprofesor.io" >> Release
 
-gpg  -abs -o - Release > Release.gpg
+rm -rf Release.gpg; gpg  -abs -o - Release > Release.gpg
 
 

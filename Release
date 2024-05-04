@@ -1,11 +1,11 @@
 Origin: ppa.elprofesor.io
 Label: ppa.elprofesor.io
 Suite: stable
-Version: 1
-SHA256: 5c09edb7da54431c2c3582e3f6fbe3cbad91cc2b2b19335a43d282a5f79c249a
+Version: 1.0
+SHA256: c80cc01260017b4234fb4c56f1ae9ffd38d68250c95c2c8b67da532bd30060ac
 SHA1: 3624ad2882aee83705e58ce06e2e793e7afc62be
 MD5: fdb90be7a96220da5de7c274907356ae
-Date: Sun, 05 May 2024 01:57:23 +0300
+Date: Sun, 05 May 2024 02:26:08 +0300
 Codename: stable
 Architectures: all
 Components: main

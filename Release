@@ -2,12 +2,24 @@ Origin: ppa.elprofesor.io
 Label: ppa.elprofesor.io
 Suite: stable
 Version: 1.0
-MD5Sum: fdb90be7a96220da5de7c274907356ae  Packages
-SHA1: 3624ad2882aee83705e58ce06e2e793e7afc62be  Packages
-SHA256: 421dbf4645c557400bd1d493b4b70ad6711f87722b1e297391f28d9fd5ffa946  Release
-SHA512: b2fb3495296e291c8b9c20dc789f6119b8b913e24d010ea63e07fe08210cece7a86b9c65cd72ea9400fea16712d82e3dc32efd30360793d799cef4558bb1ae8f  Packages
-Date: Sun, 05 May 2024 03:26:05 +0300
+Date: Sun, 05 May 2024 03:40:14 +0300
 Codename: stable
 Architectures: all
 Components: main
 Description: ppa.elprofesor.io
+MD5Sum:
+ fdb90be7a96220da5de7c274907356ae      313 Packages
+ a779709106a3cec9f7a5af97f3b70c06      256 Packages.gz
+ e09f7c5b573a30ba8436ec92aa262d8f      315 Release
+SHA1:
+ 3624ad2882aee83705e58ce06e2e793e7afc62be      313 Packages
+ 131635c0a8fb9949c66c987951e9f791653cb0ec      256 Packages.gz
+ 038b82e4cb466fd25c21d258e8f208da44aa48f7      495 Release
+SHA256:
+ c7425d8b3bfcab2d75d9c39c9c5d10ce6aaeaf6fe7efa95916eada52e2094dd2      313 Packages
+ 38da38b620f3392cc75b30a8ebbab7812dd1e9c9eca931f6715152110ec44cd5      256 Packages.gz
+ ef6449556d261b56a71f3649ee69af9bdb96f6f2b139b39e0280e9e479cc4121      733 Release
+SHA512:
+ b2fb3495296e291c8b9c20dc789f6119b8b913e24d010ea63e07fe08210cece7a86b9c65cd72ea9400fea16712d82e3dc32efd30360793d799cef4558bb1ae8f      313 Packages
+ c98d2839d0f3e5c09c6c8b2bfe39311a6fa55aeaa6c6ab1db0175d8bd5dbd65663c5204ddbf75ca44bb4b1ac85d68066f5ef378837e47cdf02045d644bdedda7      256 Packages.gz
+ 55aee63cd6db22f3f5d516e3e768fa354e7d7aa21f42174e77410486e44a6b7f8a15e5edeaece10e78deec0ba000a31ff47306ef4eb620c3b4aa716a9a3be176     1123 Release

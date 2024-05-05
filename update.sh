@@ -13,7 +13,7 @@ echo "Codename: stable" >> Release
 echo "Architectures: all" >> Release
 echo "Components: main" >> Release
 echo "Description: ppa.elprofesor.io" >> Release
-echo "Date: $(date -R)" >> Release
+echo "Date: $(date +%Y%m%d%H%M%S)" >> Release
 
 echo "MD5Sum:" >> Release
 echo " $(md5sum Packages | awk '{print $1}') $(wc -c < Packages) Packages" >> Release

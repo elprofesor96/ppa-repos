@@ -9,11 +9,11 @@ echo "Origin: ppa.elprofesor.io" > Release
 echo "Label: ppa.elprofesor.io" >> Release
 echo "Suite: stable" >> Release
 echo "Version: 1.0" >> Release
-echo "Date: $(date -R)" >> Release
 echo "Codename: stable" >> Release
 echo "Architectures: all" >> Release
 echo "Components: main" >> Release
 echo "Description: ppa.elprofesor.io" >> Release
+echo "Date: $(date -R)" >> Release
 
 echo "MD5Sum:" >> Release
 echo " $(md5sum Packages | awk '{print $1}') $(wc -c < Packages) Packages" >> Release
